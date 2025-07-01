@@ -61,5 +61,5 @@ Time-series trend
   author = {Babi‑2129},
   title = {Measuring the Pulse of Prosperity: An Index of Economic Freedom Analysis},
   year = {2025},
-  howpublished = {\url{https://github.com/Babi-2129/Measuring-the-Pulse-of-Prosperity-An-Index-of-Economic-Freedom-Analysis}}
+  howpublished = {\url{(https://github.com/Babi-2129/Measuring-the-Pulse-of-Prosperity-An-Index-of-Economic-Freedom-Analysis/blob/main/)}}
 }
